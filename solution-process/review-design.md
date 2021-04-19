@@ -13,7 +13,7 @@
 ## Technical Architect perspective
 - Designing's process is following up the market trend : Realtime-collaboration, feature management, component system.
 - Aware about the market value of components, make discussion and finalize strategy about component road-map with PO, DESIGN TEAM. What is really important when we put these task to development phase? 
-- [ ] Designer team and tech team must be on the same set of tools as Figma, XD.
+- [ ] Designer team and tech team must be on the same **set of tools as Figma, XD**.
 - Component complexity and risk. Example: Data grid view when we build it in house, there are many risk about performances. When data be bigger.
 - When Risk(resources, timeline, quality) is to much with technical side, then must to discuss with design team about alternative solution.
 - roadmap system design: 
