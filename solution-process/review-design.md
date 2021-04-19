@@ -11,4 +11,5 @@
 - Contribute to non-functional and functional features.
 - From experiences working with Mobile or Web what do you think how to improve the design.
 ## Technical Architect perspective
-- Designing's process is following up the market trend : Realtime-collaboration, feature management, component system
+- Designing's process is following up the market trend : Realtime-collaboration, feature management, component system.
+- Aware about the market value of components, make discussion and finalize strategy about component road-map with PO, DESIGN TEAM. What is really important when we put these task to development phase? 
