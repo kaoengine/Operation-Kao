@@ -16,3 +16,6 @@
 - [ ] Designer team and tech team must be on the same set of tools as Figma, XD.
 - Component complexity and risk. Example: Data grid view when we build it in house, there are many risk about performances. When data be bigger.
 - When Risk(resources, timeline, quality) is to much with technical side, then must to discuss with design team about alternative solution.
+- roadmap system design: 
+    * Architect style: https://bradfrost.com/blog/post/atomic-web-design/
+    * Distributed Components:  https://storybook.js.org/
