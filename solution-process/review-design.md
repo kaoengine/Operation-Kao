@@ -11,3 +11,4 @@
 - Contribute to non-functional and functional features.
 - From experiences working with Mobile or Web what do you think how to improve the design.
 ## Technical Architect perspective
+- Designing's process is following up the market trend. 
