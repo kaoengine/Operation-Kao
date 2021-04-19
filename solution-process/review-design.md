@@ -19,5 +19,6 @@
 - roadmap system design: 
     * Architect style: https://bradfrost.com/blog/post/atomic-web-design/
     * Distributed Components:  https://storybook.js.org/
+- Quality scope, and requirement changes from TA perspective. 
 - None-functional need: SEO, Security, Caching, Integration
 - None-Scope: 3D animation, Video, graphic design
